@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d1f8e7-2d26-49c5-8c10-c716fae69d5f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/parse/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/parse/SimpleParsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/parse/combinators/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/result/IError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/result/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/result/SimpleError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/result/error/PairError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/result/error/TokenError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/theperkinrex/parse/SimpleParsersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/theperkinrex/parse/combinators/PairTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/theperkinrex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/theperkinrex/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1d1f8e7-2d26-49c5-8c10-c716fae69d5f" name="Changes" comment="first parsers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +167,7 @@
       <workItem from="1670020371867" duration="39000" />
       <workItem from="1670020417959" duration="32000" />
       <workItem from="1670021804204" duration="305000" />
-      <workItem from="1670060317958" duration="5085000" />
+      <workItem from="1670060317958" duration="5624000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1670020261202</created>
@@ -193,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670020261202</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first parsers">
+      <created>1670065941165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670065941165</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +191,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="first parsers" />
+    <option name="LAST_COMMIT_MESSAGE" value="first parsers" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
